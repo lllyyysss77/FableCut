@@ -2,8 +2,6 @@
 
 <img src="docs/fablecut-banner.png" alt="FableCut" width="800">
 
-</div>
-
 
 **A browser video editor that AI agents can drive.**
 
