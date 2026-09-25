@@ -469,6 +469,14 @@ examples in [`library/svg/`](library/svg/).
 - Export runs in the browser because the compositor *is* the browser; agents
   ask you to click Export (or render directly with ffmpeg from `media/`).
 
+## Sponsors
+
+<a href="https://fluxionai.world/register?source=github&amp;campaign=github-fablecut&amp;promo=FABLECUT" target="_blank" rel="noopener noreferrer sponsored">
+  <img src="docs/sponsors/fluxion-ai-banner.png" alt="Fluxion AI — unified access to GPT, Claude and other leading AI models" width="640">
+</a>
+
+**[Fluxion AI](https://fluxionai.world/register?source=github&campaign=github-fablecut&promo=FABLECUT)** provides reliable, cost-efficient access to GPT, Claude, and other leading AI models through one unified API. Save up to 70% compared with official API pricing — and get $3 in API credits when you sign up through this link.
+
 ## Community
 
 Questions, ideas, showing off an edit, or want to help shape what's next? Join
